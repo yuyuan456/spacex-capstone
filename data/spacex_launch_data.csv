@@ -1,0 +1,91 @@
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,Customer,Class,LandingOutcome,Year
+1,2010-06-04,F9 v1.0,500,LEO,CCAFS LC-40,Commercial,0,No attempt,2010
+2,2010-12-08,F9 v1.0,544,LEO,CCAFS LC-40,Commercial,0,Failure (drone ship),2010
+3,2012-05-22,F9 v1.0,525,LEO,CCAFS LC-40,Commercial,0,Failure (drone ship),2012
+4,2012-10-08,F9 v1.0,500,LEO,CCAFS LC-40,Commercial,0,Failure (drone ship),2012
+5,2013-03-01,F9 v1.0,677,LEO,CCAFS LC-40,Commercial,0,No attempt,2013
+6,2013-11-13,F9 v1.1,2850,LEO,CCAFS LC-40,Commercial,0,No attempt,2013
+7,2014-01-07,F9 v1.1,3100,ISS,CCAFS LC-40,Commercial,0,Failure (drone ship),2014
+8,2014-02-09,F9 v1.1,2980,LEO,CCAFS LC-40,Commercial,0,Failure (drone ship),2014
+9,2014-04-03,F9 v1.1,2400,GTO,CCAFS LC-40,Commercial,0,Failure (drone ship),2014
+10,2014-05-31,F9 v1.1,3300,LEO,CCAFS LC-40,Commercial,0,Failure (drone ship),2014
+11,2014-07-14,F9 v1.1,2700,GTO,CCAFS LC-40,Commercial,0,Failure (drone ship),2014
+12,2014-08-21,F9 v1.1,3150,PO,CCAFS LC-40,Commercial,0,Failure (drone ship),2014
+13,2014-10-04,F9 v1.1,2600,GTO,VAFB SLC-4E,Commercial,0,Failure (drone ship),2014
+14,2014-11-29,F9 v1.1,2900,GTO,VAFB SLC-4E,Commercial,0,No attempt,2014
+15,2015-01-05,F9 v1.1,3200,LEO,CCAFS LC-40,Commercial,0,No attempt,2015
+16,2015-02-08,F9 v1.1,2750,GTO,CCAFS LC-40,Commercial,0,No attempt,2015
+17,2015-04-10,F9 v1.1,3050,LEO,CCAFS LC-40,Commercial,0,No attempt,2015
+18,2015-05-22,F9 v1.1,2500,LEO,CCAFS LC-40,Commercial,0,No attempt,2015
+19,2015-07-14,F9 v1.1,2950,GTO,CCAFS LC-40,Commercial,0,Failure (drone ship),2015
+20,2015-08-19,F9 v1.1,3496,LEO,CCAFS LC-40,Commercial,0,No attempt,2015
+21,2015-09-30,F9 FT,5775,ISS,VAFB SLC-4E,Commercial,0,Failure (drone ship),2015
+22,2015-11-04,F9 FT,7896,GTO,VAFB SLC-4E,Commercial,0,Failure (drone ship),2015
+23,2015-12-28,F9 FT,8279,GTO,CCAFS LC-40,Commercial,0,Failure (drone ship),2015
+24,2016-02-17,F9 FT,11280,GTO,CCAFS LC-40,Commercial,0,Failure (drone ship),2016
+25,2016-04-14,F9 FT,11357,GTO,KSC LC-39A,Commercial,0,No attempt,2016
+26,2016-05-14,F9 FT,9600,LEO,KSC LC-39A,NASA,1,Success (drone ship),2016
+27,2016-07-07,F9 FT,10345,GTO,CCAFS LC-40,Commercial,0,No attempt,2016
+28,2016-08-20,F9 FT,8494,LEO,KSC LC-39A,Commercial,1,Success (drone ship),2016
+29,2016-09-23,F9 FT,8438,LEO,KSC LC-39A,Commercial,1,Success (drone ship),2016
+30,2016-11-01,F9 FT,8100,GTO,CCAFS LC-40,NASA,0,No attempt,2016
+31,2016-12-04,F9 FT,11240,GTO,KSC LC-39A,Commercial,0,No attempt,2016
+32,2017-01-22,F9 FT,7400,GTO,KSC LC-39A,NASA,1,Success (ground pad),2017
+33,2017-02-22,F9 FT,5728,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2017
+34,2017-04-09,F9 FT,6900,GTO,KSC LC-39A,NASA,1,Success (ground pad),2017
+35,2017-06-09,F9 FT,9469,GTO,CCAFS LC-40,Commercial,1,Success (drone ship),2017
+36,2017-07-21,F9 FT,2764,ISS,VAFB SLC-4E,Commercial,1,Success (drone ship),2017
+37,2017-08-27,F9 FT,679,PO,KSC LC-39A,Commercial,1,Success (ground pad),2017
+38,2017-10-06,F9 FT,4793,ISS,KSC LC-39A,Commercial,1,Success (ground pad),2017
+39,2017-11-08,F9 FT,6496,LEO,CCAFS LC-40,NASA,1,Success (drone ship),2017
+40,2018-01-06,F9 FT,7100,LEO,VAFB SLC-4E,NASA,1,Success (drone ship),2018
+41,2018-02-28,F9 FT,5092,HEO,KSC LC-39A,Commercial,1,Success (ground pad),2018
+42,2018-04-22,F9 FT,3048,LEO,KSC LC-39A,Commercial,1,Success (drone ship),2018
+43,2018-06-12,F9 FT,4404,ISS,CCAFS LC-40,Commercial,1,Success (ground pad),2018
+44,2018-07-15,F9 FT,10625,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2018
+45,2018-08-17,F9 FT,9339,GTO,KSC LC-39A,Commercial,1,Success (drone ship),2018
+46,2018-09-17,F9 FT,9139,GTO,VAFB SLC-4E,Commercial,1,Success (drone ship),2018
+47,2018-11-13,F9 FT,4088,SSO,CCAFS LC-40,Commercial,1,Success (drone ship),2018
+48,2019-01-01,F9 FT,1833,LEO,CCAFS LC-40,Commercial,1,Success (drone ship),2019
+49,2019-02-27,F9 FT,9406,GTO,VAFB SLC-4E,Commercial,1,Success (ground pad),2019
+50,2019-04-23,F9 FT,8685,LEO,CCAFS LC-40,Commercial,0,No attempt,2019
+51,2019-06-01,F9 FT,9085,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2019
+52,2019-07-18,F9 FT,1839,PO,VAFB SLC-4E,Commercial,1,Success (drone ship),2019
+53,2019-08-19,F9 FT,9203,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2019
+54,2019-10-06,F9 FT,802,PO,CCAFS LC-40,Commercial,1,Success (ground pad),2019
+55,2019-11-26,F9 FT,7551,LEO,KSC LC-39A,Commercial,1,Success (ground pad),2019
+56,2019-12-29,F9 FT,10347,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2019
+57,2020-02-23,F9 FT,5047,HEO,KSC LC-39A,Commercial,1,Success (drone ship),2020
+58,2020-04-09,F9 FT,512,ES-L1,KSC LC-39A,Commercial,1,Success (drone ship),2020
+59,2020-06-07,F9 FT,6155,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2020
+60,2020-07-16,F9 FT,8489,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2020
+61,2020-08-27,F9 B4,9955,GTO,KSC LC-39A,Commercial,1,Success (ground pad),2020
+62,2020-10-10,F9 B4,5654,HEO,KSC LC-39A,Commercial,1,Success (ground pad),2020
+63,2020-12-07,F9 B4,6172,LEO,KSC LC-39A,Commercial,1,Success (ground pad),2020
+64,2021-01-27,F9 B4,3844,LEO,CCAFS LC-40,Commercial,1,Success (drone ship),2021
+65,2021-03-13,F9 B4,3840,ISS,CCAFS LC-40,Commercial,1,Success (ground pad),2021
+66,2021-04-16,F9 B4,2335,SSO,KSC LC-39A,Commercial,1,Success (drone ship),2021
+67,2021-05-24,F9 B4,7394,LEO,KSC LC-39A,Commercial,1,Success (drone ship),2021
+68,2021-07-19,F9 B4,4973,GEO,VAFB SLC-4E,Commercial,1,Success (drone ship),2021
+69,2021-09-05,F9 B4,6135,ISS,VAFB SLC-4E,Commercial,1,Success (drone ship),2021
+70,2021-10-08,F9 B4,7485,GTO,CCAFS LC-40,Commercial,1,Success (drone ship),2021
+71,2021-11-19,F9 B4,960,SSO,KSC LC-39A,Commercial,1,Success (drone ship),2021
+72,2022-01-03,F9 B4,11965,GTO,KSC LC-39A,Commercial,1,Success (ground pad),2022
+73,2022-02-10,F9 B4,4566,GEO,CCAFS LC-40,Commercial,1,Success (ground pad),2022
+74,2022-03-18,F9 B4,773,PO,VAFB SLC-4E,Commercial,1,Success (ground pad),2022
+75,2022-04-23,F9 B4,7733,GTO,VAFB SLC-4E,Commercial,1,Success (drone ship),2022
+76,2022-06-04,F9 B4,1387,PO,VAFB SLC-4E,Commercial,1,Success (ground pad),2022
+77,2022-07-11,F9 B4,7793,GTO,CCAFS LC-40,Commercial,1,Success (drone ship),2022
+78,2022-08-20,F9 B4,15600,GTO,KSC LC-39A,Commercial,1,Success (ground pad),2022
+79,2022-10-04,F9 B5,697,SSO,KSC LC-39A,Commercial,1,Success (ground pad),2022
+80,2022-11-07,F9 B5,7252,GTO,KSC LC-39A,Commercial,1,Success (drone ship),2022
+81,2022-12-16,F9 B5,1969,LEO,CCAFS LC-40,Commercial,1,Success (ground pad),2022
+82,2023-02-13,F9 B5,4330,ISS,CCAFS LC-40,Commercial,1,Success (drone ship),2023
+83,2023-03-15,F9 B5,6238,GEO,KSC LC-39A,Commercial,1,Success (drone ship),2023
+84,2023-05-06,F9 B5,9858,GTO,KSC LC-39A,Commercial,1,Success (ground pad),2023
+85,2023-06-17,F9 B5,1046,PO,VAFB SLC-4E,Commercial,1,Success (drone ship),2023
+86,2023-07-25,F9 B5,5954,GTO,CCAFS LC-40,Commercial,1,Success (drone ship),2023
+87,2023-09-20,F9 B5,1906,LEO,CCAFS LC-40,Commercial,1,Success (drone ship),2023
+88,2023-11-03,F9 B5,10004,GTO,CCAFS LC-40,Commercial,1,Success (ground pad),2023
+89,2023-12-20,F9 B5,4895,ISS,CCAFS LC-40,Commercial,1,Success (drone ship),2023
+90,2024-02-05,F9 B5,3262,LEO,VAFB SLC-4E,Commercial,1,Success (ground pad),2024
